@@ -51,8 +51,12 @@ nav a:hover{
 
 }
 
-.wrap.show-menu .canvas .menu{
-	transform: translateX(0);
+.container{
+	position: absolute;
+}
+
+.wrap.show-menu .canvas {
+	transform: translateX(300px);
 }
 
 .btn-menu{
